@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Science, ML and some DL, as well. 
 - 💞️ I’m looking to collaborate on this learning journey.
 - 📫 How to reach me drirumgilani@gmail.com
+- Gilani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irum-Gilani)](https://github.com/Irum-Gilani/github-readme-stats
   
 
 <!---
